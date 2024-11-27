@@ -1,1 +1,1 @@
-{app}\install => buradaki app proje isminin programfiles'daki klasörüdür: C:\Program Files\MIDAS_SETUP
+{app}\install => C:\Program Files\MIDAS_SETUP :  buradaki app proje isminin programfiles'daki klasörüdür.
